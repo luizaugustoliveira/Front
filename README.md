@@ -1,2 +1,2 @@
 # Front
- Respositório para estudo de FrontEnd
+ Respositório para estudos
